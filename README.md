@@ -137,6 +137,6 @@ This project is for educational purposes only and is not intended to provide med
  
 ## GitHub
  
-GitHub Repository:
-[https://github.com/abdelrhman-elnaggar/Diabetes_Prediction_ML](https://github.com/abdelrhman-elnaggar/Diabetes_Prediction_ML)
- 
+## GitHub
+
+GitHub Repository: https://github.com/abdelrhman-elnajjar/Diabetes_Prediction_ML
