@@ -124,7 +124,7 @@ The saved model files are already included, so the app loads immediately without
  
 ## Team
  
-Abdelrhman Ehab Soliman
+Abdelrhman Ehab Soliman and 
 Mohamed Elmogy
  
 **Supervised by:**
